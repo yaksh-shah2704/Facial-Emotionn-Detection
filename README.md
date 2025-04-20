@@ -26,7 +26,7 @@ This project detects human facial emotions using deep learning. It starts with a
   Surprise 😮<br>
   Neutral 😐
 
-📊 Model Performance<h3>
+<h3>📊 Model Performance</h3>
 Initial model accuracy: 48% on training set<br>
 Final model: Improved predictions with better preprocessing & tuning<br>
 Final output: Detects and displays mood based on facial emotion<br>
